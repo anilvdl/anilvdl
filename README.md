@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anilvdl/anilvdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Anil Kumar V 👋
+
+I build and contribute to the Spring and Java ecosystem, with a focus on
+agentic AI and security.
+
+**Book:** [Building Agentic AI Systems with Spring Pet Clinic](https://a.co/d/0gjTsvxd), co-authored with Krishna Manchikalapudi (2026)
+
+**Open source:** contributor to [spring-ai-community/mcp-security](https://github.com/spring-ai-community/mcp-security). Merged [PR #73](https://github.com/spring-ai-community/mcp-security/pull/73), addressing Error Prone static-analysis warnings.
+
+### Find me online
+- 📫 anil.veldurthi@gmail.com
