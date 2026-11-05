@@ -27,7 +27,7 @@ I build and contribute to the Spring and Java ecosystem, with a focus on agentic
 - Merged [PR #2977](https://github.com/carlos-emr/carlos/pull/2977), fixing a bug where fractional tickler IDs were silently truncated and matched the wrong record. <br/>
 - Merged [PR #2938](https://github.com/carlos-emr/carlos/pull/2938), migrating a consultation-request query to the type-safe JPA Criteria API.
 
-**[apache/maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin):** [PR #1063](https://github.com/apache/maven-compiler-plugin/pull/1063) is under review, fixing a locale-dependent integration test failure.
+**[apache/maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin):** [PR #1063](https://github.com/apache/maven-compiler-plugin/pull/1063) is merged, fixing a locale-dependent integration test failure.
 
 ### Find me online
 - 📫 anil.veldurthi@gmail.com
